@@ -15,7 +15,7 @@ A szörny erősebb, így jobban sebez.
 
 - Special attack - a játékos egyedi támadása a szörnyre
 Véletlen szám generálódik 10 és 25 között, mellyel a szörny élete csökken.
-A gomb csak minden harmadik lépés esetén érhető el, egyébként disable.
+A gomb csak minden harmadik lépés esetén érhető el, egyébként disabled.
 A használatát követően a szörny támad egyszer.
 
 - Heal - a játékos életét növeli
