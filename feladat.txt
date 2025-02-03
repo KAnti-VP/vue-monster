@@ -19,7 +19,7 @@ A gomb csak minden harmadik lépés esetén érhető el, egyébként disabled.
 A használatát követően a szörny támad egyszer.
 
 - Heal - a játékos életét növeli
-Véletlen szám generálódik 5 és 20 között, mellyel a játékos élete növekszik.
+Véletlen szám generálódik 8 és 20 között, mellyel a játékos élete növekszik.
 Az élesztés után a szörny támad egyszer.
 
 - Surrender - feladás
